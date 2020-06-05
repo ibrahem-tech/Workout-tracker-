@@ -20,3 +20,4 @@ router.post("/workouts", async (req, res) => {
         throw e;
     }
 });
+
